@@ -1,0 +1,10 @@
+Sitemap: https://xylons.github.io/WebPerso/sitemap.xml
+
+User-agent: *
+Disallow: /src/app/components/
+Disallow: /src/app/layouts/
+Disallow: /dist/
+Disallow: /documentation/
+Disallow: /e2e/
+Disallow: /node_modules/
+Disallow: /README.md
