@@ -1,4 +1,4 @@
-Sitemap: https://xylons.github.io/WebPerso/sitemap.xml
+Sitemap: https://xylons.github.io/sitemap.xml
 
 User-agent: *
 Disallow: /src/app/components/
