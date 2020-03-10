@@ -1,7 +1,9 @@
 .white-content{
 
   background: $light-bg;
-
+  .centrarText{
+    text-align: center;
+  }
   .navbar.navbar-transparent .navbar-brand{
     color: $black-states;
   }
